@@ -1,0 +1,6 @@
+[submodule "lib/awesome-shifty"]
+	path = lib/awesome-shifty
+	url = git@github.com:bioe007/awesome-shifty.git
+[submodule "lib/awesome-appmenu"]
+	path = lib/awesome-appmenu
+	url = git@github.com:montagdude/awesome-appmenu.git
